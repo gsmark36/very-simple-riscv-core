@@ -16,7 +16,7 @@ The controller truth table:
   
   
 ### The version 2
-The core is extended with a simple in-order superscalar unit.Switching gates for memories are added as weoll.  
+The core is extended with a simple in-order superscalar unit. Switching gates for memories are added as well.  
 The microarchitecture schematic:  
   
   
@@ -36,7 +36,7 @@ Instructions for the LED counter are loaded.
 If you are using DE0-Nano, please look at the pdf file in the demo folder.  
   
   
-![image](schematics/demo.png)  
+<img src="https://github.com/gsmark36/very-simple-riscv-core/blob/072c0681ec0da6fa76c5eae5c82fdd4edab8a9cd/schematics/demo.png" width=50% height=50%>  
   
   
 ## References
