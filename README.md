@@ -36,7 +36,7 @@ Instructions for the LED counter are loaded.
 If you are using DE0-Nano, please look at the pdf file in the demo folder.  
   
   
-<img src="https://github.com/gsmark36/very-simple-riscv-core/blob/072c0681ec0da6fa76c5eae5c82fdd4edab8a9cd/img/demo.png" width=50% height=50%>  
+<img src="https://github.com/gsmark36/very-simple-riscv-core/blob/b3631dd9006397dec7a1b624ef42349d41f356e3/img/demo.png" width=50% height=50%>  
   
   
 ## References
