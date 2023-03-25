@@ -31,7 +31,7 @@ The controller truth table:
   
 ### FPGA demo
 This repo does not contain project files or setting files for the FPGA project.  
-To run the demo, please replace the top level design and instructions (.txt), and add source files to the FPGA project created.  
+To run the demo, please replace the top level design and instructions (.txt), and add source files to the FPGA project you have created. Quartus or Vivado or any other tools.  
 Instructions for the LED counter are loaded.  
 If you are using DE0-Nano, please look at the pdf file in the demo folder.  
   
